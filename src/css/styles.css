@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+
+.title{
+    color:blue ;
+}
+
+button:hover{
+    background-color: orange;
+}
+
+main{
+    section{
+        h1{
+            color: green;
+        }
+    }
+}
